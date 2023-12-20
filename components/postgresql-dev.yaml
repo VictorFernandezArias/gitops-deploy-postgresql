@@ -30,7 +30,7 @@ spec:
   source:
     path: overlays/dev
 # we specify the folder for the files
-    repoURL: 'https://github.com/mcaballol/gitops-deploy-postgresql.git'
+    repoURL: 'https://github.com/VictorFernandezArias/gitops-deploy-postgresql.git'
 # the repository url
     targetRevision: main
 # and branch, in this case HEAD / main
